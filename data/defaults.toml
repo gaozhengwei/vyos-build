@@ -1,6 +1,6 @@
 build_type = "development"
 
-architecture = "amd64"
+architecture = "arm64"
 
 debian_distribution = "bookworm"
 
